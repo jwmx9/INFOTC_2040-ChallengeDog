@@ -1,0 +1,6 @@
+/Users/JohnWilliams/Documents/IT2040/Dog/Dog/bin/Debug/Dog.exe
+/Users/JohnWilliams/Documents/IT2040/Dog/Dog/bin/Debug/Dog.pdb
+/Users/JohnWilliams/Documents/IT2040/Dog/Dog/obj/x86/Debug/Dog.csprojAssemblyReference.cache
+/Users/JohnWilliams/Documents/IT2040/Dog/Dog/obj/x86/Debug/Dog.csproj.CoreCompileInputs.cache
+/Users/JohnWilliams/Documents/IT2040/Dog/Dog/obj/x86/Debug/Dog.exe
+/Users/JohnWilliams/Documents/IT2040/Dog/Dog/obj/x86/Debug/Dog.pdb
